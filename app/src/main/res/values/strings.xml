@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DashboradPageLayout</string>
+    <string name="flying">Flying</string>
+    <string name="mubassyir">Mubassyir</string>
+    <string name="to">to ?</string>
+    <string name="where_are_you">Where Are You</string>
+    <string name="enter_your_destination">Enter Your Destination</string>
+    <string name="all">ALL</string>
+    <string name="upcoming_trip">Upcoming Trip</string>
+    <string name="_25_jan_10_15am">25 Jan, 10:15AM</string>
+    <string name="las">LAS</string>
+    <string name="las_vegas">Las Vegas</string>
+    <string name="time">11:10AM</string>
+    <string name="sfo">Sfo</string>
+    <string name="home">Home</string>
+    <string name="trip">Trip</string>
+    <string name="profile">Profile</string>
+    <string name="popular">Popular</string>
+    <string name="paris">Paris</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="singapore">Singapore</string>
+    <string name="japan">Japan</string>
+</resources>
